@@ -1,0 +1,1 @@
+# Strapi-talent-tracker
